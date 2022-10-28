@@ -25,10 +25,10 @@
   ![image](https://user-images.githubusercontent.com/115741212/198730341-42f8d3ea-8310-4535-b404-cd4601805fc0.png)
 
 ## Summary
-  ### Advantages and Disadvantages of refactoring code
+  ### Advantages and Disadvantages of Refactoring Code
    The key advantage to refactoring code is that you can simply create a better, more efficient, and more easily understood product. The disadvantage is that this     takes time, it can be tedious, and it can keep you from advancing on other projects. The task of the coder is to determine which projects supply the greatest degree of utility when deciding what they should spend time on.
       
-   ### Specific Advantages and Disadvantages of this VBA script
+   ### Specific Advantages and Disadvantages of this VBA Script
    As mentioned, the key advantage to refactoring this specific VBA script is to decrease its run-time in order to apply it to a greater number of stock tickers. The disadvantage is that refactoring takes time which could be put to use elsewhere. Our base example excels with sufficiently small samples, given how easy it is to create. Of course, it fails to scale with larger sample sizes.
 
 Overally, I believe we have demonstrated that refactoring is a desirable skill to learn and generally has many positive use-cases.

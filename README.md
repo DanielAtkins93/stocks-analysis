@@ -7,16 +7,21 @@
   Per below, we can see that 2017 was a far better year than 2018 in terms of these stocks' performance:
   
   *2017*
+  
   ![image](https://user-images.githubusercontent.com/115741212/198729284-bf989849-e531-4288-bbcd-2d0d8e17a15b.png)
 
   *2018*
+  
   ![image](https://user-images.githubusercontent.com/115741212/198729382-a0dfddaa-5308-421d-a0a7-dd95dd5abde1.png)
 
   When comparing our refactored macro to the base macro, we see quite an improvement in run-time:
+  
   *Base*
+  
   ![image](https://user-images.githubusercontent.com/115741212/198730222-ac2e73ee-a08e-469d-bf61-dc27baec09b2.png)
 
   *Refactored*
+  
   ![image](https://user-images.githubusercontent.com/115741212/198730341-42f8d3ea-8310-4535-b404-cd4601805fc0.png)
 
 ##Summary
